@@ -2,7 +2,7 @@
 ## Screenshots
 
 ### Screenshot 1
-![Screenshot 1](screenshots/img1.png)
+![Screenshot 1](https://github.com/Suraj-Avhad/IndianCuisineSite/blob/d82efae3d440eeeccea7f295acebf7e160b38786/Screenshot%202025-12-05%20134841.png)
 
 ### Screenshot 2
 ![Screenshot 2](screenshots/img2.png)
